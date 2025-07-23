@@ -16,7 +16,7 @@ from models.llama import Llama, LlamaConfig
 
 
 def inference(audio_path):
-    ckpt_path = "inference\\step=20000.pth"
+    ckpt_path = "inference\\step=10000.pth"
     sr = 32000
     device = "cuda"
     max_length = 20
