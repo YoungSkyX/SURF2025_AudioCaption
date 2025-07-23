@@ -4,7 +4,7 @@
 
 This is a GUI program with a pretrained audio model. This model trains Llama and CNN14 on the Clotho dataset for 20,000 steps. And selected step=10,000 as the final model.
 
-
+![alt text](<trainloss.png>) ![alt text](<testloss.png>)
 
 It can infer the environmental sound uploaded by recording or from your local files, and output a simple description of the sound you uploaded.
 
