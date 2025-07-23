@@ -6,6 +6,8 @@ This is a GUI program with a pretrained audio model. This model trains Llama and
 
 It can infer the environmental sound uploaded by recording or from your local files, and output a simple description of the sound you uploaded.
 
+![alt text](demo.png)
+
 ## 1. Install dependencies
 
 ```bash
