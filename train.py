@@ -1,3 +1,6 @@
+"""Modified from https://github.com/qiuqiangkong/mini_llm/blob/main/sample.py
+"""
+
 import argparse
 from pathlib import Path
 
